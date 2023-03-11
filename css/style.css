@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(26, 26, 26);
+    color: white;
+}
+
+/* ========== Classes ========== */
+
+.title, .loading{
+    text-align: center;
+    color: rgb(181, 70, 255);
+}
+
+.loading{
+    text-align: center;
+}
+
+.form-uwu{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.tweew-button{
+    color: white;
+    transition: background-color .2s;
+    background-color: rgb(181, 70, 255);
+    border-color: rgb(0, 0, 0);
+}
+.tweew-button:hover{
+    color: white;
+    background-color: rgba(173, 49, 255, 0.87);
+    border-color: rgb(0, 0, 0);
+}
+
+/* ========== IDs ========== */
+
+#loading-gif{
+    width: 15%;
+}
